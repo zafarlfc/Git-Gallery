@@ -47,3 +47,4 @@ package.json
 package-lock.json
 
 venv
+.env
